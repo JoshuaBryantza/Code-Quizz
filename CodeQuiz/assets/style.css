@@ -2,6 +2,10 @@ body {
   margin: 200px;
 }
 
+h1 {
+  font-size: 50px;
+}
+
 .center {
   width: 50%;
   margin: auto;
