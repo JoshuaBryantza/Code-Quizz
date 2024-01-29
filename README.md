@@ -17,13 +17,13 @@ As soon and you land on the Code Quiz page, you will be greeted with the instruc
 
 ### Screenshots
 
-![screen1](./assets/img/Screenshot%202024-01-29%20at%201.53.14 PM.png)
+![screen1](./CodeQuiz/assets/img/Screenshot%202024-01-29%20at%201.53.14 PM.png)
 
-![screen2](./assets/img/Screenshot%202024-01-29%20at%201.53.28 PM.png)
+![screen2](./CodeQuiz/assets/img/Screenshot%202024-01-29%20at%201.53.28 PM.png)
 
-![screen3](./assets/img/Screenshot%202024-01-29%20at%201.53.34 PM.png)
+![screen3](./CodeQuiz/assets/img/Screenshot%202024-01-29%20at%201.53.34 PM.png)
 
-![screen4](./assets/img/Screenshot%202024-01-29%20at%201.53.49 PM.png)
+![screen4](./CodeQuiz/assets/img/Screenshot%202024-01-29%20at%201.53.49 PM.png)
 
 ### Deloyment
 [live]()
