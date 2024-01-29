@@ -1,0 +1,22 @@
+body {
+  margin: 200px;
+}
+
+.center {
+  width: 50%;
+  margin: auto;
+}
+
+div button {
+  display: flex;
+  flex-direction: column;
+}
+
+.hide {
+  display: none;
+}
+
+.black {
+  width: 50%;
+  margin: auto;
+}
