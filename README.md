@@ -26,4 +26,4 @@ As soon and you land on the Code Quiz page, you will be greeted with the instruc
 ![screen4](./CodeQuiz/assets/img/Screenshot%202024-01-29%20at%201.53.49 PM.png)
 
 ### Deloyment
-[live]()
+[live](https://joshuabryantza.github.io/Code-Quizz/)
